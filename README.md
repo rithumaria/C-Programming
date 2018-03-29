@@ -50,7 +50,7 @@ To write and compile in DevC++, follow the steps given below:-
 1. On opening DevC++, you will get a window. Click on File->New->Source File option
 
 2. Write your C++ program as shown below and save it (**ctrl+s**).
-
+```
 #include<iostream.h>
 
 int main()
@@ -62,7 +62,7 @@ int main()
   return();
   
 }
-
+```
 3. Onceyou have written the program, click on compile and run.
 
 4. An output window will appear showing the result, i.e, **Hello World** printed.
