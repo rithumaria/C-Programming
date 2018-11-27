@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-C++ is one of the most popular programming languages.It is based on C, but it is an object-oriented programming language.It is widely used in graphics, libraries, games, network devices,etc.This tutorial will guide you to setup and comple a C++ Program.
+C++ is one of the most popular programming languages.It is based on C, but it is an object-oriented programming language.It is widely used in graphics, libraries, games, network devices,etc.This tutorial will guide you to setup and compile a C++ Program.
 
 ### Why should we learn C++?
 #### Features of C++
