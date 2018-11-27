@@ -67,7 +67,7 @@ int main()
 
 4. An output window will appear showing the result, i.e, **Hello World** printed.
 
-Now you can start practising with simple codes.
+Now you can start practising with simple cods.
 
 Happy Coding!:heart:
 
